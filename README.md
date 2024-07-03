@@ -1,3 +1,5 @@
+# rn-assignment6-11210904
+
 ### App Design
 The application is a straightforward e-commerce app featuring two main screens: HomeScreen and CartScreen. It offers a modern and clean design for an intuitive shopping experience.
 
